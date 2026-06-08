@@ -9,5 +9,5 @@ In this space I use it for my studies, but I will also share some projects with 
 
 <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif" height="160px" width="160px" />
  
- ## Contato
+## Contato
 Para mais informações, @duvilela.ai / tiktok @duvilela - direct-me
