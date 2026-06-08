@@ -1,6 +1,6 @@
-# Bem-vindo!
+## Bem-vindo!
 
-## Como contribuir
+### Como contribuir
 Sinta-se à vontade para explorar, clonar e contribuir com melhorias.
 
 #### Hi there / Olá, Tudo bem?  👋  ✨Seja bem vindo ao meu Git
