@@ -1,8 +1,4 @@
 # Bem-vindo!
-Este é o repositório pessoal **duhvilela**.
-
-## Sobre
-Repositório para organização de projetos e códigos IA
 
 ## Como contribuir
 Sinta-se à vontade para explorar, clonar e contribuir com melhorias.
