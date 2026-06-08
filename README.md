@@ -13,9 +13,5 @@ In this space I use it for my studies, but I will also share some projects with 
 
 <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif" height="160px" width="160px" />
  
-  <div>🙌🏻 ✨|🧑‍💻♡ #🅘🅣 | #🅓🅔🅥 |</div>
- <div>🚀 ✨🌟A persistência realiza o impossível 🌟✨</div>
- <p></p>
- 
  ## Contato
 Para mais informações, @duvilela.ai instagram direct-me
